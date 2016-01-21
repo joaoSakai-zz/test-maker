@@ -1,2 +1,2 @@
 # test-maker
-select and create questions for to create a test;
+Program that select questions for to facilitate a test creation;
